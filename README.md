@@ -19,6 +19,7 @@ To use this customer survey form, follow these steps:
 2. Open the `index.html` file in a web browser to view and use the survey form.
 
 3. Answer the survey questions and observe the validation in action. Users will be prompted to provide required information before submitting.
+   
 
 ## Usage
 
@@ -33,3 +34,6 @@ If you would like to contribute to this project by adding new features, fixing i
 
 
 Feel free to customize the content and add more details as needed for your specific project.
+
+![image](https://github.com/Venkateshch191/Customer-Survey-form--clone/assets/143815819/cbb38c66-3b1d-4053-b281-fc644b9d896a)
+
