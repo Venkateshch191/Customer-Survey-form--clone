@@ -1,0 +1,111 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    /* background-color: skyblue; */
+}
+body{
+    background-color: skyblue;
+}
+h2{
+    text-align: center;
+    margin-top: 40px;
+    color: white;
+    font-size: xx-large;
+    font-weight: 900;
+
+}
+.innerbox{
+    /* border: 1px solid red; */
+    height: 500px;
+    width: 40%;
+    margin: auto;
+    margin-top: 1%;
+    background-color: white;
+    
+}
+form{
+    background-color: white;
+}
+.box1{
+    margin-top: 10px;
+    display: flex; 
+}
+.namebox{
+ margin-left: 30px;
+}
+.emailbox{
+    margin-left: 110px;
+}
+input[type="email"]{
+    width: 220px;
+    padding: 7px;
+    border-radius: 2px;
+    border: 1px solid grey;
+} 
+input[type="name"]{
+    width: 220px;
+    padding: 7px;
+    border-radius: 2px;
+    border: 1px solid grey;
+} 
+#inputfield:focus{
+    border: 3px solid black; 
+
+}
+.box2{
+    padding-left: 30px;
+    margin-top: 10px;
+}
+.bx2{
+    margin-top: 5px;
+}
+.bx2 input[type="radio"] {
+    margin-right: 5px;
+}
+/* --- */
+.box3{
+    padding-left: 30px;
+    margin-top: 10px;
+}
+.bx3{
+    margin-top: 5px;
+}
+.bx3 input[type="radio"] {
+    margin-right: 5px;
+}
+/*  */
+.box4{
+    padding-left: 30px;
+    margin-top: 10px;
+}
+.bx4{
+    margin-top: 5px;
+}
+.bx4 input[type="radio"] {
+    margin-right: 5px;
+}
+/*  */
+
+.box5{
+    padding-left: 30px;
+    margin-top: 10px;
+}
+#textareaa{
+    margin-top: 10px;
+}
+#button{
+    margin-left: 45%;
+    margin-top: 10px;
+    background-color: skyblue;
+    padding: 8px 20px;
+    border: none;
+    border-radius: 20px;
+    margin-bottom: 5px;
+}
+footer{
+    margin-left: 33%;
+    margin-top: 30px;
+}
+  
